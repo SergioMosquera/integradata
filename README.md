@@ -1,2 +1,2 @@
 # integradata
-Integracion de datos para valores que se relacionan
+A continuacion vamos a visualizar algunos ejemplos o tecnicas que permiten unir conjuntos de datos
